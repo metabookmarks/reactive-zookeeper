@@ -1,0 +1,12 @@
+.cache-main
+.cache-tests
+.classpath
+.ensime
+.ensime_cache/
+.idea/
+.project
+.settings/
+/bin/
+target/
+lib/
+*~
